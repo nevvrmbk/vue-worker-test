@@ -33,3 +33,5 @@ npm run build
 ```sh
 npm run lint
 ```
+
+[![Node.js CI](https://github.com/nevvrmbk/vue-worker-test/actions/workflows/node.js.yml/badge.svg)](https://github.com/nevvrmbk/vue-worker-test/actions/workflows/node.js.yml)
